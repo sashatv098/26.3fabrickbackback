@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": "minecraft:leather",
+    "C": "minecraft:chest"
+  },
+  "pattern": [
+    "LLL",
+    "LCL",
+    "L L"
+  ],
+  "result": {
+    "id": "simplebackpack:backpack",
+    "count": 1
+  }
+}
